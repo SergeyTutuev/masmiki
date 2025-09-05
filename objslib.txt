@@ -1,0 +1,1 @@
+build\bin\BigInt.lib build\obj\BigInt.obj build\obj\CMPBI.obj build\obj\CMPBIsz.obj build\obj\Neg.obj build\obj\SIGN.obj build\obj\SHRBI.obj
